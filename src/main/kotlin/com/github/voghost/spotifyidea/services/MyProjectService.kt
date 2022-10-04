@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.voghost.spotifyidea.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.voghost.spotifyidea.MyBundle
 
 class MyProjectService(project: Project) {
 
